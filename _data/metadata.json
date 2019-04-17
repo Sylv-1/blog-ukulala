@@ -6,7 +6,7 @@
     "subtitle": "Ukulala",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "url": "localhost/feed/feed.xml",
+    "url": "http://localhost:8080/feed/feed.xml",
     "id": "localhost"
   },
   "author": {
